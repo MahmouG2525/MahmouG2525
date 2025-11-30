@@ -1,4 +1,5 @@
-# 🚀 Mahmoud Maher Gado — Full-Stack Web Developer
+<h1 align="center">Hi👋I'm Mahmoud Gado</h1>
+<h2 align="center">Full-Stack Web Developer</h2>
 
 <img src="https://raw.githubusercontent.com/MahmouG2525/MahmouG2525/main/banner.png" width="100%" alt="Banner"/>
 
