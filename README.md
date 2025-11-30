@@ -1,11 +1,10 @@
 <h1 align="center">Hi👋I'm Mahmoud Gado</h1>
 <h2 align="center">Full-Stack Web Developer</h2>
 
-<img src="https://raw.githubusercontent.com/MahmouG2525/MahmouG2525/main/banner.png" width="100%" alt="Banner"/>
 
 
 <p align="center">
-  <b>Full-Stack Web Developer (Python / Django / React)</b><br/>
+  <b>Full-Stack Web Developer (Python / Django / Flask / React)</b><br/>
   I build scalable systems, clean UIs, and real-world applications with modern web technologies.
 </p>
 
@@ -68,22 +67,7 @@ I focus on:
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman" height="45" />
 </p>
 
----
 
-## 🏗️ Projects
-
-🚧 **Currently updating this section…**  
-As soon as all my repositories are uploaded and documented, this section will include:
-
-- Full-stack web apps  
-- Backend systems  
-- REST API services  
-- UI/Frontend demos  
-- Training & learning projects  
-
-🔜 **Coming very soon…**
-
----
 
 ## 📊 GitHub Insights
 <div align="center">
@@ -121,7 +105,7 @@ As soon as all my repositories are uploaded and documented, this section will in
 🐙 **GitHub:** https://github.com/MahmouG2525  
 📄 **CV:** Linked above  
 
-💼 *Open to Internships, Junior Roles, and Freelance Work.*
+💼 *Actively looking for opportunities to grow as a full-stack developer.*
 
 </div>
 
