@@ -18,17 +18,31 @@ Practical real-world solutions
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Languages&align=center&fontSize=20&width=800&lineCount=1&theme=tokyonight&logos=python,javascript,sql" />
-  
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Backend&align=center&fontSize=20&width=800&lineCount=1&theme=tokyonight&logos=django,flask,fastapi" />
-
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Frontend&align=center&fontSize=20&width=800&lineCount=1&theme=tokyonight&logos=react,html,css,bootstrap,tailwind" />
-
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Databases&align=center&fontSize=20&width=800&lineCount=1&theme=tokyonight&logos=postgres,mysql,sqlite" />
-
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tools&align=center&fontSize=20&width=800&select=git,github,docker,linux,postman&theme=tokyonight" />
+### 🚀 Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,sql" height="45" />
 </p>
+
+### ⚙️ Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=django,flask,fastapi" height="45" />
+</p>
+
+### 🎨 Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind" height="45" />
+</p>
+
+### 🗄 Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" height="45" />
+</p>
+
+### 🧪 Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman" height="45" />
+</p>
+
 
 
 🏗️ Projects
