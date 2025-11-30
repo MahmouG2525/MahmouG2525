@@ -90,15 +90,13 @@ As soon as all my repositories are uploaded and documented, this section will in
 <div align="center">
 
 <img 
-  src="[https://github-readme-stats.vercel.app/api?username=MahmouG2525&show_icons=true&theme=tokyonight](https://github-readme-stats.vercel.app/api?username=MahmouG2525&show_icons=true&theme=tokyonight
-)" 
+  src="https://github-readme-stats.vercel.app/api?username=MahmouG2525&show_icons=true&theme=tokyonight" 
   height="180" 
   alt="GitHub Stats"
 />
 
 <img 
-  src="[https://github-readme-stats.vercel.app/api/top-langs/?username=MahmouG2525&layout=compact&theme=tokyonight](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmouG2525&layout=compact&theme=tokyonight
-)" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmouG2525&layout=compact&theme=tokyonight" 
   height="180" 
   alt="Top Langs"
 />
