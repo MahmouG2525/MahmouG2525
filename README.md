@@ -1,8 +1,7 @@
 # 🚀 Mahmoud Maher Gado — Full-Stack Web Developer
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/MahmouG2525/MahmouG2525/main/banner.png" width="100%" alt="Banner"/>
-</div>
+<img src="https://raw.githubusercontent.com/MahmouG2525/MahmouG2525/main/banner.png" width="100%" alt="Banner"/>
+
 
 <p align="center">
   <b>Full-Stack Web Developer (Python / Django / React)</b><br/>
@@ -86,23 +85,21 @@ As soon as all my repositories are uploaded and documented, this section will in
 ---
 
 ## 📊 GitHub Insights
-
 <div align="center">
 
 <img 
-  src="https://github-readme-stats.vercel.app/api?username=MahmouG2525&show_icons=true&theme=tokyonight](https://github-readme-stats-gitmasterrstaarickstaa.vercel.app/apiusername=MahmouG2525&show_icons=true&theme=tokyonight" 
-  height="180" 
-  alt="GitHub Stats"
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=MahmouG2525&show_icons=true&theme=tokyonight" 
+  height="180"
 />
 
 <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmouG2525&layout=compact&theme=tokyonight](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MahmouG2525&layout=compact&theme=tokyonight
-" 
-  height="180" 
-  alt="Top Langs"
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MahmouG2525&layout=compact&theme=tokyonight" 
+  height="180"
 />
 
 </div>
+
+
 
 ---
 
