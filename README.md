@@ -16,18 +16,16 @@ Practical real-world solutions
 
 🎯 Currently preparing my GitHub to include all my projects with full documentation.
 
-🛠️ Tech Stack
-<div align="center">
-🔥 Languages
-<img src="https://skillicons.dev/icons?i=python,javascript,sql" height="50"/>
-⚙ Backend
-<img src="https://skillicons.dev/icons?i=django,flask,fastapi" height="50"/>
-🎨 Frontend
-<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind" height="50"/>
-🗄 Databases
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" height="50"/>
-🧪 Tools & Testing
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman" height="50"/> </div>
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,sql,django,flask,fastapi,react,html,css,bootstrap,tailwind,postgres,mysql,sqlite,git,github,docker,linux,postman" height="45"/>
+</p>
+
+<p align="center">
+  Strong experience across backend development, frontend UI, databases, and DevOps basics.
+</p>
+
 🏗️ Projects
 
 🚧 Currently updating this section…
