@@ -63,8 +63,13 @@ Training & learning projects
 
 🔜 Coming very soon…
 
-📊 GitHub Insights
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MahmouG2525&show_icons=true&theme=tokyonight" height="180"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmouG2525&layout=compact&theme=tokyonight" height="180"> </div>
+📊 ## 📊 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats-mu-eight-30.vercel.app/api?username=MahmouG2525&show_icons=true&theme=tokyonight" height="180">
+  <img src="https://github-readme-stats-mu-eight-30.vercel.app/api/top-langs/?username=MahmouG2525&layout=compact&theme=tokyonight" height="180">
+</p>
+
 🏆 GitHub Trophies
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=MahmouG2525&theme=algolia&margin-w=10&margin-h=10"/> </div>
 📫 Contact Me
