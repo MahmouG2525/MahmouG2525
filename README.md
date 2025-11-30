@@ -19,12 +19,17 @@ Practical real-world solutions
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,sql,django,flask,fastapi,react,html,css,bootstrap,tailwind,postgres,mysql,sqlite,git,github,docker,linux,postman" height="45"/>
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Languages&align=center&fontSize=20&width=800&lineCount=1&theme=tokyonight&logos=python,javascript,sql" />
+  
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Backend&align=center&fontSize=20&width=800&lineCount=1&theme=tokyonight&logos=django,flask,fastapi" />
+
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Frontend&align=center&fontSize=20&width=800&lineCount=1&theme=tokyonight&logos=react,html,css,bootstrap,tailwind" />
+
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Databases&align=center&fontSize=20&width=800&lineCount=1&theme=tokyonight&logos=postgres,mysql,sqlite" />
+
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tools&align=center&fontSize=20&width=800&select=git,github,docker,linux,postman&theme=tokyonight" />
 </p>
 
-<p align="center">
-  Strong experience across backend development, frontend UI, databases, and DevOps basics.
-</p>
 
 🏗️ Projects
 
