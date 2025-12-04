@@ -1,6 +1,9 @@
-<h1 align="center">Hi👋I'm Mahmoud Gado</h1>
-<h2 align="center">Full-Stack Web Developer</h2>
-
+<h1 align="center">Hi , I'm Mahmoud Gado <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Web+Developer+(Python);Back-end+@+Django+%26+Flask;Front-end+@+React+JS;ITI+Graduate+Full+Stack+Python;Always+learning+new+things">
+  </a>
+</p>
 
 
 <p align="center">
@@ -23,94 +26,84 @@
   </a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 👨‍💻 About Me
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width=50></picture> About Me
 
-Full-stack web developer specializing in **Python, Django, Flask, React, Tailwind, and API-driven applications**.
+<picture><img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=250></picture>
 
-I focus on:
+<br>
 
-- Clean, maintainable code  
-- Scalable backend architecture  
-- Responsive UI & modern frontend  
-- Practical real-world solutions  
+- 🎓 ITI Graduate **Full Stack Web Development using Python**
+- 🐍 Specialized in **Django + Flask + API Development**
+- 🌐 Building scalable apps, clean UI, and real-world systems
+- ⚙️ Interested in **Backend Architecture & Databases**
+- 💻 Also working with **React, Bootstrap, Tailwind**
+- 📚 Always learning, improving, and building projects
+- 🔎 Currently: **Learning, building portfolio & looking for opportunities**
+- 📄 Here is my **Resume** (in the top section)
 
-🎯 **Currently preparing my GitHub to include all my projects with full documentation.**
+<br>
 
----
+## 🛠️ My Tech Stack
 
-## 🛠️ Tech Stack
+### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width=50></picture> Languages
 
-### 🚀 Languages  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,sql" height="45" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=plastic&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-%2300758F.svg?style=plastic&logo=postgresql&logoColor=white"/>
 </p>
 
-### ⚙️ Backend  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=django,flask,fastapi" height="45" />
+### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width=50></picture> Backend
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=plastic&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-%23000.svg?style=plastic&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-%23009688.svg?style=plastic&logo=fastapi&logoColor=white"/>
 </p>
 
-### 🎨 Frontend  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind" height="45" />
+### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width=50></picture> Frontend
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=plastic&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=plastic&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white"/>
 </p>
 
-### 🗄 Databases  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" height="45" />
+### 🗄 Databases & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=plastic&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=plastic&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-%23003B57.svg?style=plastic&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=plastic&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=plastic&logo=postman&logoColor=white"/>
 </p>
 
-### 🧪 Tools  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman" height="45" />
+<br>
+
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width=100></picture> Connect With Me
+
+<p align="center">
+	<a href="mailto:mahmoud.gado2002@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white"></a>
+	<a href="https://github.com/MahmouG2525"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
+	<a href="https://www.linkedin.com/in/mahmoud-gado"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white"></a>
+  <a href="https://drive.google.com/file/d/1AALuvrPCO7bYoW-5EAU0tGQOMXhfK9Zi/view?usp=sharing">
+  <img src="https://img.shields.io/badge/My%20CV-%2328A745.svg?style=plastic&logo=google-drive&logoColor=white" alt="My CV"/>
+</a>
+
 </p>
-
-
-
-## 📊 GitHub Insights
 <div align="center">
-
-<img 
-  src="https://github-readme-stats-sigma-five.vercel.app/api?username=MahmouG2525&show_icons=true&theme=tokyonight" 
-  height="180"
-/>
-
-<img 
-  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MahmouG2525&layout=compact&theme=tokyonight" 
-  height="180"
-/>
-
-</div>
-
-
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MahmouG2525&theme=algolia&margin-w=10&margin-h=10"/>
-</div>
-
----
-
-## 📫 Contact Me
-
-<div align="center">
-
-📧 **Email:** mahmoud.gado2002@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/mahmoud-gado/  
-🐙 **GitHub:** https://github.com/MahmouG2525  
-📄 **CV:** Linked above  
-
 💼 *Actively looking for opportunities to grow as a full-stack developer.*
-
 </div>
 
----
 
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
 ⭐ If you like my work, feel free to star my repositories. It motivates me to build more! ⭐
 </p>
