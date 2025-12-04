@@ -81,15 +81,25 @@
 
 <div align="center">
   
-<img 
-  src="https://github-readme-stats-sigma-five.vercel.app/api?username=MahmouG2525&show_icons=true&theme=tokyonight&hide_border=true&title_color=9f7aea&text_color=ffffff" 
-  height="180"
-/>
+<p align="center">
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=MahmouG2525&show_icons=true&theme=tokyonight&hide_border=true&title_color=9f7aea&text_color=ffffff" 
+    height="200"
+    width="48%" 
+  />
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MahmouG2525&layout=compact&theme=tokyonight&hide_border=true&title_color=9f7aea&text_color=ffffff" 
+    height="200"
+    width="48%" 
+  />
+</p>
 
-<img 
-  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MahmouG2525&layout=compact&theme=tokyonight&hide_border=true&title_color=9f7aea&text_color=ffffff" 
-  height="180"
-/>
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats-sigma-five.vercel.app/?user=MahmouG2525&theme=tokyonight&hide_border=true&title_color=9f7aea&text_color=ffffff" 
+    height="160"
+  />
+</p>
 
 </div>
 
