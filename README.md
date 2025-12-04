@@ -95,6 +95,10 @@
   <a href="https://drive.google.com/file/d/1AALuvrPCO7bYoW-5EAU0tGQOMXhfK9Zi/view?usp=sharing">
   <img src="https://img.shields.io/badge/My%20CV-%2328A745.svg?style=plastic&logo=google-drive&logoColor=white" alt="My CV"/>
 </a>
+<a href="https://wa.me/201015580843">
+  <img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+</a>
+
 
 </p>
 <div align="center">
