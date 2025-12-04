@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Mahmoud Gado <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Mahmoud Gado <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -13,17 +13,15 @@
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1AALuvrPCO7bYoW-5EAU0tGQOMXhfK9Zi/view?usp=sharing">
-    <img src="https://img.shields.io/badge/My%20CV-28a745?style=for-the-badge&logo=google-drive&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-My%20CV-28a745?style=for-the-badge&logo=google-drive&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/mahmoud-gado/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:mahmoud.gado2002@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
-<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -51,14 +49,14 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
-### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width=40></picture> Backend
+### 💻 Frameworks & Backend
 <p align="left">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
 
-### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width=40></picture> Frontend
+### 🎨 Frontend
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -79,25 +77,19 @@
 
 ---
 
-## 🏆 GitHub Trophies & Stats
+## 📊 My GitHub Stats
 
 <div align="center">
+  
+<img 
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=MahmouG2525&show_icons=true&theme=tokyonight&hide_border=true&title_color=9f7aea&text_color=ffffff" 
+  height="180"
+/>
 
-<a href="https://github.com/MahmouG2525">
-  <img src="https://github-profile-trophy.vercel.app/?username=MahmouG2525&theme=flat&no-frame=true&rank=SECRET" alt="GitHub Trophies" />
-</a>
-
-<br/>
-
-<a href="https://github.com/MahmouG2525">
-  <img src="https://devcard.onrender.com/api?username=MahmouG2525&theme=dark" alt="Mahmoud's Stats" />
-</a>
-
-<br/>
-
-<a href="https://github.com/MahmouG2525">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahmouG2525&theme=dark&hide_border=true" alt="GitHub Streak" />
-</a>
+<img 
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MahmouG2525&layout=compact&theme=tokyonight&hide_border=true&title_color=9f7aea&text_color=ffffff" 
+  height="180"
+/>
 
 </div>
 
