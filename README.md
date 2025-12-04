@@ -49,7 +49,8 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
-### <picture><img src="image/CP_PS.gif" width=40></picture> Frameworks & Backend<p align="left">
+### <picture><img src="image/CP_PS.gif" width=40></picture> Frameworks & Backend
+<p align="left">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
