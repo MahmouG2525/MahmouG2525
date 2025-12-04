@@ -25,9 +25,9 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width=45></picture> About Me
+## <picture><img src="image/about_me.gif" width=45></picture> About Me
 
-<picture><img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=250></picture>
+<picture><img align="right" src="image/Right_Side.gif" width=250></picture>
 
 - 🎓 ITI Graduate **Full Stack Web Development using Python**
 - 🐍 Specialized in **Django + Flask + API Development**
@@ -42,21 +42,20 @@
 
 ## 🛠️ My Tech Stack
 
-### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width=40></picture> Languages
+### <picture><img src="image/Language.gif" width=40></picture> Languages
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
-### 💻 Frameworks & Backend
-<p align="left">
+### <picture><img src="image/CP_PS.gif" width=40></picture> Frameworks & Backend<p align="left">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
 
-### 🎨 Frontend
+### <picture><img src="image/Front_End.gif" width=40></picture> Frontend
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -66,6 +65,7 @@
 </p>
 
 ### 🗄 Databases & Tools
+### <picture><img src="image/Software_Tools.gif" width=40></picture>
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -77,7 +77,7 @@
 
 ---
 
-## 📊 My GitHub Stats
+## <picture><img src="image/Statistics.gif" width=40></picture> My GitHub Stats
 
 <div align="center">
   
@@ -105,7 +105,7 @@
 
 ---
 
-## 🤝 Connect With Me
+## <picture><img src="image/Connect-with-me.gif" width=40></picture> Connect With Me
 
 <p align="center">
   <a href="mailto:mahmoud.gado2002@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
