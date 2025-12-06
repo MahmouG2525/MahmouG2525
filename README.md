@@ -65,8 +65,7 @@
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
 
-### 🗄 Databases & Tools
-### <picture><img src="image/Software_Tools.gif" width=40></picture>
+### <picture><img src="image/Software_Tools.gif" width=40></picture> Databases & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
